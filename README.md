@@ -1,6 +1,6 @@
 👋 Saudações, sou a @talitarolin!
 
-Bem-vinda ao meu canto digital no GitHub, onde a arte da programação e a busca pelo conhecimento se unem em uma dança sofisticada.
+Bem-vindo ao meu canto digital no GitHub, onde a arte da programação e a busca pelo conhecimento se unem em uma dança sofisticada.
 
 🚀 Movida pela curiosidade insaciável, embarquei em uma empolgante jornada na programação, explorando os horizontes da Ciencia da Computação.
 
