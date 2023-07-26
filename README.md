@@ -9,7 +9,6 @@
 
 
 
-Convido você a se juntar a mim nessa jornada de descobertas, onde o código é a paleta e a tecnologia é a tela. 🎨💻
 
 <!---
 talitarolin/talitarolin é um repositório ✨ especial ✨ porque o arquivo `README.md` (este arquivo) aparece no meu perfil GitHub.
