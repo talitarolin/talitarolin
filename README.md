@@ -1,17 +1,12 @@
-👋 Saudações, sou a @talitarolin!
+🌷 Olá, sou a @talitarolin!
 
-Bem-vindo ao meu canto digital no GitHub, onde a arte da programação e a busca pelo conhecimento se unem em uma dança sofisticada.
+🌸 Aprendiz de programação em busca de conhecimento e desafios.
 
-🚀 Movida pela curiosidade insaciável, embarquei em uma empolgante jornada na programação, explorando os horizontes da Ciencia da Computação.
+🌸 Aberta a aprender novas linguagens e tecnologias.
 
-💡 Aprendiz ávida, estou sempre aberta a desafios estimulantes e pronta para mergulhar de cabeça em novas linguagens de programação.
+🌻 Contate-me por talita.rolin7@gmail.com ou @tal_coding
 
-🌱 Neste jardim de aprendizado, cultivo as sementes da inovação e da criatividade, prontas para florescer em projetos colaborativos.
 
-🤝 Aberta a conexões com mentes brilhantes, estou pronta para colaborar em iniciativas inspiradoras e parcerias que transcendam o ordinário.
-
-📫 Como me encontrar:
-talita.rolin7@gmail.com, @tal_coding
 
 
 Convido você a se juntar a mim nessa jornada de descobertas, onde o código é a paleta e a tecnologia é a tela. 🎨💻
