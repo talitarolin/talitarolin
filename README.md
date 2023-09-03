@@ -2,7 +2,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](httpss://talita.rolin7@gmail.com)
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talita-rolin-da-rosa-0332aab9/)
 
-
+![Talita GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=talitarolin&hide_progress=true)
 
 ### Tecnologias que eu uso no meu dia:
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
