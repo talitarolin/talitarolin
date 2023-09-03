@@ -4,9 +4,7 @@
 
 🌸 Aberta a aprender novas linguagens e tecnologias.
 
-🌻 Contate-me por talita.rolin7@gmail.com ou @tal_coding
-
-
+🌻 Contate-me por talita.rolin7@gmail.com ou @tal_colding
 
 
 
