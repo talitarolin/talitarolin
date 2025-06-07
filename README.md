@@ -1,12 +1,20 @@
 👋 Olá, sou a Talita!
 
-🎯 Áreas de interesse: Desenvolvimento Backend (Python, Node.js), Fullstack com foco em boas práticas (React + Express), DevOps (Docker, CI/CD) e Inteligência Artificial (Python, OpenAI APIs).
+💻 Estudante de Engenharia de Software, com interesse prático em desenvolvimento Back-End, automação e análise de dados. Tenho me dedicado a criar projetos que resolvem problemas reais com código limpo, APIs bem estruturadas e foco em escalabilidade.
 
-🔧 Meus projetos focam em resolver problemas reais de forma prática. Atualmente desenvolvendo um [organizador de arquivos em Python](link), e aprimorando automações com JavaScript.
+🚀 Atualmente, estou desenvolvendo um MVP de *Conformidade Tributária Internacional* usando Django, DRF e Docker — projeto que simula validações fiscais multi-país com suporte multilíngue e multimoeda.
 
-📚 Estudante de Engenharia de Software. Sempre buscando evoluir com foco em código limpo, testes automatizados e infraestrutura escalável.
+🧠 Áreas de interesse:  
+- Desenvolvimento Back-End (Python, Node.js)  
+- Fullstack pragmático (React)  
+- DevOps prático (Docker)  
+- Análise de Dados e APIs (Python)  
+- Aplicações reais com impacto funcional  
+
+🧰 Valorizo código limpo, testes automatizados e soluções que fazem sentido no mundo real. Gosto de aprender construindo, com foco em clareza e resultado.
 
 📫 Contato: [talita.rolin7@gmail.com](mailto:talita.rolin7@gmail.com) | [LinkedIn](https://www.linkedin.com/in/talitarolin/)
+
 
 
 <!---
