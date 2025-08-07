@@ -1,19 +1,24 @@
 👋 Olá, sou a Talita!
 
-💻 Estudante de Engenharia de Software, com interesse prático em desenvolvimento Back-End, automação e análise de dados. Tenho me dedicado a criar projetos que resolvem problemas reais com código limpo, APIs bem estruturadas e foco em escalabilidade.
+💻 Estudante de Engenharia de Software, com foco prático em desenvolvimento fullstack, automação e análise de dados. Me dedico a construir projetos que resolvem problemas reais, com código limpo, APIs bem estruturadas e foco em escalabilidade.
 
-🚀 Atualmente, estou desenvolvendo um MVP de *Conformidade Tributária Internacional* usando Django, DRF e Docker — projeto que simula validações fiscais multi-país com suporte multilíngue e multimoeda.
+Atualmente participo do programa KodeStart, onde estou desenvolvendo um app Flutter para fãs de Rick & Morty, baseado na [Rick and Morty API](https://rickandmortyapi.com/](https://github.com/talitarolin/kode-start))
+.
+- Tudo isso respeitando os requisitos funcionais do desafio e aplicando boas práticas de arquitetura, responsividade e consumo de APIs REST.
 
-🧠 Áreas de interesse:  
-- Desenvolvimento Back-End (Python, Node.js)  
-- Fullstack pragmático (React)  
-- DevOps prático (Docker)  
-- Análise de Dados e APIs (Python)  
-- Aplicações reais com impacto funcional  
+Em paralelo, sigo desenvolvendo meu projeto pessoal de um MVP de Conformidade Tributária Internacional, usando Django, Django REST Framework e Docker. O sistema simula validações fiscais multi-país, com suporte multilíngue e multimoeda, permitindo escalabilidade e adaptação às regras locais de diferentes países (Mercosul e União Europeia).
 
-🧰 Valorizo código limpo, testes automatizados e soluções que fazem sentido no mundo real. Gosto de aprender construindo, com foco em clareza e resultado.
+🧠 Áreas de interesse:
 
-📫 Contato: [talita.rolin7@gmail.com](mailto:talita.rolin7@gmail.com) | [LinkedIn](https://www.linkedin.com/in/talitarolin/)
+UI/UX
+
+Fullstack pragmático (React)
+
+Análise de Dados e APIs (Python)
+
+Aplicações reais com impacto funcional
+
+🧰 Valorizo clareza, testes automatizados e soluções que façam sentido no mundo real. Aprendo construindo, com foco em resultado.
 
 
 
