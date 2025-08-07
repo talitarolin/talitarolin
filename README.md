@@ -2,7 +2,7 @@
 
 💻 Estudante de Engenharia de Software, com foco prático em desenvolvimento fullstack, automação e análise de dados. Me dedico a construir projetos que resolvem problemas reais, com código limpo, APIs bem estruturadas e foco em escalabilidade.
 
-Atualmente participo do programa KodeStart, onde estou desenvolvendo um app Flutter para fãs de Rick & Morty, baseado na [Rick and Morty API](https://rickandmortyapi.com/](https://github.com/talitarolin/kode-start))
+Atualmente participo do programa KodeStart, onde estou desenvolvendo um [app Flutter](https://github.com/talitarolin/kode-start) para fãs de Rick & Morty, baseado na [Rick and Morty API](https://rickandmortyapi.com/)
 .
 - Tudo isso respeitando os requisitos funcionais do desafio e aplicando boas práticas de arquitetura, responsividade e consumo de APIs REST.
 
