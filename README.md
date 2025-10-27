@@ -3,16 +3,6 @@
 💻 Estudante de Engenharia de Software, com foco prático em desenvolvimento fullstack, automação e análise de dados. Me dedico a construir projetos que resolvem problemas reais, com código limpo, APIs bem estruturadas e foco em escalabilidade.
 
 
-🧠 Áreas de interesse:
-
-UI/UX
-
-Fullstack pragmático (React)
-
-Análise de Dados e APIs (Python)
-
-Aplicações reais com impacto funcional
-
 🧰 Valorizo clareza, testes automatizados e soluções que façam sentido no mundo real. Aprendo construindo, com foco em resultado.
 
 
