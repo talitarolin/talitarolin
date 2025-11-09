@@ -28,15 +28,13 @@
 
 ## 🚀 Projetos em Destaque
 
-### Gerenciador de Cursos – Fullstack 
-https://github.com/talitarolin/gerenciador-cursos
-**[Sistema para gerenciar alunos, cursos e matrículas, com autenticação segura e dados integrados. Permite cadastrar, consultar e atualizar informações de forma organizada e escalável.**  
+### Gerenciador de Cursos – Fullstack - https://github.com/talitarolin/gerenciador-cursos
+**Sistema para gerenciar alunos, cursos e matrículas, com autenticação segura e dados integrados. Permite cadastrar, consultar e atualizar informações de forma organizada e escalável.**  
 `Tecnologias: Python | Django | PostgreSQL | Docker`
 - ✅ Python | Django | PostgreSQL | JWT | Docker
 - ✅ Integração com API externa ViaCEP
 
-### MVP de Conformidade Tributária Internacional 
-https://github.com/talitarolin/mvp-conformidade-tributaria)
+### MVP de Conformidade Tributária Internacional - https://github.com/talitarolin/mvp-conformidade-tributaria)
 **Sistema para analisar e validar notas fiscais internacionais, detectando erros de conformidade tributária e sugerindo correções automáticas, facilitando processos fiscais complexos.**  
 `Tecnologias: Java | Spring Boot | MySQL | Redis`
 - ✅ Python | Django | SQLite
